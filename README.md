@@ -8,6 +8,6 @@ APP_NAME: string
 
 You can also add extra types for Env in `src/OverrideModules.ts`
 
-## License
+made with ❤ by Mahdi
 
-[MIT](https://choosealicense.com/licenses/mit/)
+
