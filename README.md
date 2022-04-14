@@ -2,12 +2,10 @@
 
 Env File Should be like Below:
 
-```sh
-APP_NAME: string
+```typescript
+APP_NAME = string;
 ```
 
-You can also add extra types for Env in `src/OverrideModules.ts`
+You can also add extra types for Env in `src/typings/env.ts`
 
 made with ❤ by Mahdi
-
-
